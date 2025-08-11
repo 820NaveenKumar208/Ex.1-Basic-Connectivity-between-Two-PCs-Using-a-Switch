@@ -1,5 +1,7 @@
+# NAME : NAVEEN KUMAR T
+# REG NO : 212223220067
 ## Ex. No 1. 	Basic Connectivity between Two PCs Using a Switch
-# Date : 		
+# Date : 11:08:2025
 
 # Objective
 
@@ -39,8 +41,11 @@ For Router Configuration (CLI):<br>
 
 ________________________________________
 # Output (Screenshots / Ping Results)
+<img width="1917" height="1019" alt="Screenshot 2025-08-11 133730" src="https://github.com/user-attachments/assets/e8ef208b-c6e4-4d0b-a0fd-21381852b16a" />
 
-Insert screenshots showing ping success, configuration, or simulation results.
+<img width="1919" height="1012" alt="Screenshot 2025-08-11 133816" src="https://github.com/user-attachments/assets/c428a358-64c5-4558-8a28-20a3cd1fbe08" />
+
+
 ________________________________________
 # Result
 “Successfully configured and verified basic LAN communication between two PCs using a switch in Cisco Packet Tracer.”
